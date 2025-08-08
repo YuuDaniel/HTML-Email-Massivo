@@ -3,6 +3,7 @@ Projeto em HTML e CSS de um disparo massivo de e-mail's de cobrança extrajudici
 Foi utilizado imagens, figuras e contatos fictícios para a crianção do projeto! Afim de respeitar os direitos autorais das empresas contratantes de serviços de cobrança!
 O trabalho foi inspirado em um projeto semelhante criado por mim dentro da empresa no qual trabalho. 
 Trouxe esse pequeno projeto para meu GitHub com intuito de aumentar meu portifólio.
+Sugiro o uso de um HTML Tester para visualização da página!
 
 Agradeço sua atenção! 
 
